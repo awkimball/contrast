@@ -1,4 +1,4 @@
-title: ""
+title: "Addison Kimball"
 author: ""
 description: ""
 
@@ -23,10 +23,9 @@ navigation:                  # (optional) site navigation in the header
   - about.md
 
 icons:                       # (optional) fontawesome icons in the header
-  envelope: "mailto:"
-  github: "https://github.com"
-  rss: "/feed.xml"
-
+  envelope: "mailto:addison@akimball.com"
+  github: "https://github.com/awkimball"
+  twitter: "https://twitter.com/awkimball"
 
 plugins: 
  - jekyll-feed

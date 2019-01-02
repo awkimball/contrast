@@ -1,5 +1,5 @@
 title: "Addison Kimball"
-author: ""
+author: "Addison Kimball"
 description: ""
 
 # Jekyll settings
@@ -18,8 +18,7 @@ dark_header: false           # uses dark header whether dark_theme is enabled or
 minimal_theme: false         # radically minimalistic theme
 
 navigation:                  # (optional) site navigation in the header
-  - index.html
-  - archive.md
+  - index.md
   - about.md
 
 icons:                       # (optional) fontawesome icons in the header
